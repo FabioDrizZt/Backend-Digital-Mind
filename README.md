@@ -98,7 +98,7 @@ El repositorio está organizado en carpetas y archivos según los temas y práct
 1. **Clonar el repositorio:**
    ```bash
    git clone https://github.com/FabioDrizZt/Backend-Digital-Mind.git
-```
+   ```
 
 2. **Navegar a la carpeta del tema que deseas estudiar.**
 
