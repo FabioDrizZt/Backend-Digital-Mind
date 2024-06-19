@@ -93,6 +93,26 @@ Bienvenido al repositorio del curso Backend de Digital Mind. Este repositorio co
 
 El repositorio está organizado en carpetas y archivos según los temas y prácticas vistos en clase. Cada carpeta contiene el material teórico, código de ejemplo y las resoluciones de los trabajos prácticos correspondientes.
 
+## Libros
+
+### 🐘 PHP:
+
+- [PHP, la manera correcta](https://phpdevenezuela.github.io/php-the-right-way/) - Josh Lockhart, Phil Sturgeon (HTML)
+- [Programación en PHP a través de ejemplos](https://mega.nz/file/AFIkhRpC#8muP4I2jZRiNirbQmXDMBDf8QPxw5HkbbaGk2xzDvNE) - Manuel Palomo e Ildefonso Montero (PDF)
+
+- ## Herramientas
+
+### 🔀 Git
+
+- [Pro Git](https://github.com/progit/progit2-es/releases/download/2.1.23/progit.pdf) - Scott Chacon y Ben Straub
+
+## Bases de datos
+
+### 🛗 SQL
+
+- [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) - Rubén Alvarez
+- [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) - Jorge Sanchez Asenjo
+  
 ## Cómo Utilizar Este Repositorio
 
 1. **Clonar el repositorio:**
