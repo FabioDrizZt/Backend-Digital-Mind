@@ -53,5 +53,5 @@ $frutas = [
     ["pera","verde"]
 ];
 
-echo "La primer fruta es: " . $frutas[0][0] . " Y su color es: " . $frutas[0][1];
-echo "La segunda fruta es: " . $frutas[1][0] . " Y su color es: " . $frutas[1][1];
+echo "\n La primer fruta es: " . $frutas[0][0] . " Y su color es: " . $frutas[0][1];
+echo "\n La segunda fruta es: " . $frutas[1][0] . " Y su color es: " . $frutas[1][1];
